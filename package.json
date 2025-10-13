@@ -1,0 +1,25 @@
+{
+  "name": "playwright-ui-api-test-automation-framework",
+  "version": "1.0.0",
+  "description": "This is a UI & API automation framework built using Playwright & TypeScript which uses a page object model. The project automates functional test cases on the website [ContactListApp](https://thinking-tester-contact-list.herokuapp.com/).",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoekclegg/playwright-ui-api-test-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoekclegg/playwright-ui-api-test-automation-framework/issues"
+  },
+  "homepage": "https://github.com/zoekclegg/playwright-ui-api-test-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
