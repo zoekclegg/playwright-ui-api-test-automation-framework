@@ -1,6 +1,6 @@
-# Playwright UI and API test automation framework in Typescript
+# Playwright UI test automation framework in Typescript
 
-This is a UI & API automation framework built using Playwright & TypeScript which uses a page object model. The project automates functional test cases on the website [ContactListApp](https://thinking-tester-contact-list.herokuapp.com/).
+This is a UI automation framework built using Playwright & TypeScript which uses a page object model. The project automates functional test cases on the website [Demo Blaze](https://www.demoblaze.com/index.html).
 
 ### Languages, Frameworks and Tools used
 
