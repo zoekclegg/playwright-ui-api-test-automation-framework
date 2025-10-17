@@ -7,4 +7,4 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-/playwright/utils/auth.json
+/utils/auth.json
